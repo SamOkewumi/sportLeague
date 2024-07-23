@@ -1,0 +1,23 @@
+${Ansi.DEFAULT}                                                             
+${Ansi.GREEN}                                                             
+${Ansi.GREEN}     OOOOOOOOO     KKKKKKKKK    KKKKKKKEEEEEEEEEEEEEEEEEEEEEE
+${Ansi.GREEN}   OO:::::::::OO   K:::::::K    K:::::KE::::::::::::::::::::E
+${Ansi.GREEN} OO:::::::::::::OO K:::::::K    K:::::KE::::::::::::::::::::E
+${Ansi.GREEN}O:::::::OOO:::::::OK:::::::K   K::::::KEE::::::EEEEEEEEE::::E
+${Ansi.GREEN}O::::::O   O::::::OKK::::::K  K:::::KKK  E:::::E       EEEEEE
+${Ansi.GREEN}O:::::O     O:::::O  K:::::K K:::::K     E:::::E             
+${Ansi.GREEN}O:::::O     O:::::O  K::::::K:::::K      E::::::EEEEEEEEEE   
+${Ansi.GREEN}O:::::O     O:::::O  K:::::::::::K       E:::::::::::::::E   
+${Ansi.GREEN}O:::::O     O:::::O  K:::::::::::K       E:::::::::::::::E   
+${Ansi.GREEN}O:::::O     O:::::O  K::::::K:::::K      E::::::EEEEEEEEEE   
+${Ansi.GREEN}O:::::O     O:::::O  K:::::K K:::::K     E:::::E             
+${Ansi.GREEN}O::::::O   O::::::OKK::::::K  K:::::KKK  E:::::E       EEEEEE
+${Ansi.GREEN}O:::::::OOO:::::::OK:::::::K   K::::::KEE::::::EEEEEEEE:::::E
+${Ansi.GREEN} OO:::::::::::::OO K:::::::K    K:::::KE::::::::::::::::::::E
+${Ansi.GREEN}   OO:::::::::OO   K:::::::K    K:::::KE::::::::::::::::::::E
+${Ansi.GREEN}     OOOOOOOOO     KKKKKKKKK    KKKKKKKEEEEEEEEEEEEEEEEEEEEEE
+${Ansi.GREEN}                                                             
+${Ansi.GREEN}                                                                                                                         
+${Ansi.GREEN}${OKE.League} ${1.01}
+${Ansi.RED}:: Powered by Spring Boot ${spring-boot.formatted-version} ::
+${Ansi.DEFAULT}
